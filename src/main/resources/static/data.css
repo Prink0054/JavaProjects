@@ -1,0 +1,26 @@
+body {
+	
+	background-color: lightblue;
+	
+}
+
+.h3{
+	font-style: italic;
+	color: tomato;
+}
+
+#hello{
+	font-style: italic;
+	text-decoration: underline;
+	font-size: 50px;
+	text-align: center;
+	font-family: serif;
+	
+}
+
+#home{
+	
+	margin-top: 150px;
+	
+}
+
